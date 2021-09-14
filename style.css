@@ -1,0 +1,14 @@
+.heading{
+    width: 100%;
+    font-size: 15px;
+}
+.footer{
+    top: 500;
+    color: blue;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+}
+#camera{
+    background-color: ivory;
+}
