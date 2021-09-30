@@ -9,10 +9,10 @@
     bottom: 0;
     text-align: center;
     line-height: 3;
-    color:midnightblue;
+    color:rgb(22, 22, 201);
 }
 canvas{
     box-shadow: 5px,5px,5px,5px,grey;
     border-radius: 20px;
-    border:5px solid white;
+    border:5px ,solid white;
 }
